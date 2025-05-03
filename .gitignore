@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Database files
+reactbits.db
+reactbits.db-shm
+reactbits.db-wal
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# Build output (if any)
+dist/
+build/
+
+# Misc
+.env
+.env.local
+
+# Ignore preview images
+scraped-components/*/*-preview.png
